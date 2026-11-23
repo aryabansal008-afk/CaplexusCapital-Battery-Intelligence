@@ -69,28 +69,6 @@ The dashboard aims to answer four fundamental questions:
 
 Insights and recommendations should be supported by evidence from the underlying data, with assumptions and limitations clearly distinguished.
 
-## Project Structure
-
-```text
-interactive-business-intelligence-dashboard/
-│
-├── data/
-│   └── source-datasets/
-│
-├── dashboard/
-│   └── business-intelligence-dashboard.pbix
-│
-├── analysis/
-│   └── strategic-insights.md
-│
-├── screenshots/
-│   └── dashboard-preview.png
-│
-└── README.md
-```
-
-*Note: The structure above is a suggested organisation. Update it to match the actual repository files.*
-
 ## How to Use
 
 1. Clone this repository.
