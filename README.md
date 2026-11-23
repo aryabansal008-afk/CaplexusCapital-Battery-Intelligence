@@ -2,7 +2,7 @@
 
 An autonomous, data-driven Business Intelligence project developed for an IIM Case Competition, leveraging Microsoft Power BI to transform raw datasets into actionable insights through interactive visualisations, analytical exploration and strategic intelligence.
 
-## 🚀 Project Overview
+## Project Overview
 
 This project focuses on independently exploring available datasets, identifying meaningful business patterns and developing an interactive dashboard that supports data-driven decision-making.
 
@@ -12,7 +12,7 @@ The objective is simple:
 
 **Transform data into insights, and insights into strategic decisions.**
 
-## 🎯 Objectives
+## Objectives
 
 - Explore and understand available datasets.
 - Identify meaningful business trends, patterns and anomalies.
@@ -22,7 +22,7 @@ The objective is simple:
 - Translate analytical findings into actionable recommendations.
 - Present insights through an executive-level dashboard.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -32,7 +32,7 @@ The objective is simple:
 | Microsoft Excel / CSV | Data sources, where applicable |
 | ChatGPT | Analytical assistance and dashboard planning |
 
-## 📈 Dashboard Capabilities
+## Dashboard Capabilities
 
 The dashboard is designed around the following capabilities, subject to the available dataset and implemented report features:
 
@@ -44,7 +44,7 @@ The dashboard is designed around the following capabilities, subject to the avai
 - **Strategic Insights:** Identify potential opportunities, inefficiencies and business risks.
 - **Data Validation:** Ensure analytical outputs remain consistent with source data.
 
-## 🧠 Analytical Approach
+## Analytical Approach
 
 The project follows a structured analytical workflow:
 
@@ -56,7 +56,7 @@ The project follows a structured analytical workflow:
 6. **Insight Generation** – Translate findings into meaningful business intelligence.
 7. **Validation** – Verify calculations, relationships and interactive functionality.
 
-## 💡 Business Intelligence & Insights
+## Business Intelligence & Insights
 
 The dashboard aims to answer four fundamental questions:
 
@@ -69,7 +69,7 @@ The dashboard aims to answer four fundamental questions:
 
 Insights and recommendations should be supported by evidence from the underlying data, with assumptions and limitations clearly distinguished.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 interactive-business-intelligence-dashboard/
@@ -91,7 +91,7 @@ interactive-business-intelligence-dashboard/
 
 *Note: The structure above is a suggested organisation. Update it to match the actual repository files.*
 
-## ⚙️ How to Use
+## How to Use
 
 1. Clone this repository.
 2. Download and install [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
@@ -100,7 +100,7 @@ interactive-business-intelligence-dashboard/
 5. Refresh the data.
 6. Explore the dashboard using its available filters, slicers and interactive visualisations.
 
-## 📌 Key Principles
+## Key Principles
 
 - Data accuracy over visual complexity.
 - Evidence-based insights over assumptions.
@@ -108,7 +108,7 @@ interactive-business-intelligence-dashboard/
 - Interactive exploration over static reporting.
 - Strategic recommendations over descriptive analysis.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Integrate additional data sources.
 - Introduce advanced forecasting and predictive analytics where appropriate.
@@ -117,7 +117,7 @@ interactive-business-intelligence-dashboard/
 - Expand scenario modelling and what-if analysis.
 - Improve insight generation through AI-assisted analytics.
 
-## 👨‍💻 Project Context
+## Project Context
 
 Developed as part of an IIM Case Competition, this project demonstrates the application of Business Intelligence, data analytics and strategic thinking to real-world business problem-solving.
 
