@@ -4,7 +4,7 @@ An autonomous, data-driven Business Intelligence project developed for an IIM Ca
 
 ## Project Overview
 
-This project focuses on independently exploring available datasets, identifying meaningful business patterns and developing an interactive dashboard that supports data-driven decision-making.
+This project focuses on independently exploring available datasets, identifying meaningful business patterns and developing an interactive dashboard that supports data driven decision making.
 
 Rather than relying on predefined KPIs or fixed analytical assumptions, the dashboard follows an autonomous analytical approach to discover relevant metrics, uncover hidden trends and identify potential business opportunities.
 
